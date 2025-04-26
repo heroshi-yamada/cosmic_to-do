@@ -24,7 +24,7 @@ Welcome to Cosmic To-Do — the only task manager that makes "forgetting to do s
 ---
 
 # 🌌 Instant Cosmic Access (For the Impatient Astronauts)
-## click here to launch the rocket (o゜▽゜)o☆ https://heroshi-yamada.github.io/cosmos_to-do/
+## click here to launch the rocket (o゜▽゜)o☆ https://heroshi-yamada.github.io/cosmic_to-do/
 
 ---
 
